@@ -8,7 +8,6 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello World!  What is your favorite animal?");
             var favAnimal = Console.ReadLine();
-            Console.WriteLine("Well, I see " + favAnimal "is your favorite animal.")
-        }
+            Console.WriteLine("Well, I see " + favAnimal + " is your favorite animal.");        }
     }
 }
